@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML, CSS, ReactJS, Bootstrap, Figma, AdobeXD, Adobe Illustrator, Adobe Photoshop**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3><a href="https://linkedin.com/in/oshin-nusrat-rahman" target="blank"><img align="center" src="(https://content.linkedin.com/content/dam/brand/site/img/logo/logo-r.png)" height="30" width="40" /></a>
 <p align="left">
 <a href="https://linkedin.com/in/oshin-nusrat-rahman" target="blank"></a>
 </p>
